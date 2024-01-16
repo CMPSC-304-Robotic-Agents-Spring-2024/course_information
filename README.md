@@ -18,7 +18,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 Week # | Topic    | Activities/Assignments  | Reading
 ------ |  ------------------------- | --------------------------------------------- | ---------------------------
-1      |  Introduction to Class. Robotics Civic Problem. [GitHub Flow.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | Activity 1: Course Information. [Community Guidelines Activity](https://github.com/RoboticAgents/course-information/blob/main/community_guidelines.md). | <ul><li>Read the syllabus.</li> <li>Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).</li></ul>
+1      |  Introduction to Class. Robotics Civic Problem. [GitHub Flow.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | [Activity 1: Course Information Feedback and Community Guidelines](https://docs.google.com/document/d/1qVVSwcbv8Tf1A5qoZSI5nQ2zxBpmGqjGhKdUYpMde4c/edit?usp=sharing). | <ul><li>Read the syllabus.</li> <li>Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).</li></ul>
 2      | Introduction to Robotics
 3      | Actuating and Sensing
 4      | Locomotion
