@@ -8,7 +8,7 @@ This repository contains information about the Robotic Agents course, including 
 - [Instructor](#Instructor)
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
-- [Learning Outcomes](#Outcomes)
+- [Learning Outcomes](#Learning-Outcomes)
 - [Required Materials](#Materials)
 - [Course Policies](#Policies)
 
@@ -87,13 +87,13 @@ There is no required textbook for this course. All reading material will be prov
 
 #### Grading
 
-Category           
------------------- 
-Class Activities   
-Community Engagement 
-Projects        
-Presentations   
-Quizzes        
+Category        | Percentage   
+------------------------------ 
+Class Activities (0 or 1) | 40% 
+Projects (letter grade) | 40%
+Quizzes (at least 80% for 1, 0 otherwise) | 10%
+Community Engagement (at least 1 event) | 10%
+
 
 #### Grading Scale
 
@@ -114,7 +114,7 @@ A significant portion of the course asks the students to study and reflect on pu
 
 #### Projects
 
-Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your robotic agent system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular project.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
+Graded on a percentage and credit/no-credit basis, five project assignments, invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your robotic agent system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular project.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
 
 #### Presentations
 
@@ -122,7 +122,7 @@ At various points of the course, students will engage with learning "hot topics"
 
 #### Quizzes
 
-The quiz will cover all of the material in its associated module and are short 10 question assessments completed during the class session. Four quizzes are anticipated throughout the semester. Unless prior arrangements are made with the instructor, all students will be expected to take the quizzes on the
+The quiz will cover all of the material in its associated module and are short 10 question assessments completed during the class session. Five quizzes are anticipated throughout the semester. Unless prior arrangements are made with the instructor, all students will be expected to take the quizzes on the
 scheduled dates. 
 
 #### Assignment Submission
