@@ -83,6 +83,16 @@ Program learning outcomes 2 and 5 satisfy CL learning outcome.
 
 There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
 
+### Community Guidelines
+
+Interactions of students amongst themselves, as well as with the course instructor and the Technical Leaders must be respectful at all times. All members of the course are expected to contribute to the classroom environment being welcoming, inclusive, and engaging. 
+
+Course members are representatives of this course, Computer and Information Science department, and Allegheny College, when engaging in the local community, and as such must present the best representation of themselves. All members must learn about the community with which they are to engage and consider the impacts of their communications, actions and interactions in the community.
+
+When working as a team, all project decisions should be made as a team. Team members must decide how they conduct the work, divide the work as needed, and should hold each other accountable. All project work must be completed in a branch on GitHub, and allow for appropriate GitHub flow process using Pull Requests and Merges. Team members should use Discord and GitHub to communicate with each other about the project.
+
+Each team is responsible for the hardware they work with during each project. All supplies taken out of ALIC need to be documented in the project's report. All tools and supplies must be returned to ALIC when are no longer in use. 
+
 ### Policies
 
 #### Grading
@@ -91,9 +101,8 @@ Category        | Percentage
 ------------------------------ 
 Class Activities (0 or 1) | 40% 
 Projects (letter grade) | 40%
-Quizzes (at least 80% for 1, 0 otherwise) | 10%
 Community Engagement (at least 1 event) | 10%
-
+Quizzes (at least 80% for 1, 0 otherwise) | 10%
 
 #### Grading Scale
 
@@ -108,17 +117,17 @@ Community Engagement (at least 1 event) | 10%
 
 All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams). You will receive a checkmark grade (1) if you complete more than 70% of the activity; otherwise you will receive a 0.
 
-#### Community Engagement
+##### Presentations
 
-A significant portion of the course asks the students to study and reflect on public problems related to the field of robotics. As a part of civic learning in this course you will be required to engage in the community. This will mainly involve developing software and hardware to be presented to our local community and then participating in appropriate outreach events. 
+At various points of the course, students will engage with learning "hot topics" as they relate to civic learning and report on their findings to our class community. Each presentation will count as a class activity.
 
 #### Projects
 
 Graded on a percentage and credit/no-credit basis, five project assignments, invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting your robotic agent system. Additionally, you will be required to submit reflections on the civic learning components if relevant to the particular project.  To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. Many of the lab assignments in this course will expect students to give both a presentation and a demonstration of the system that they created.
 
-#### Presentations
+#### Community Engagement
 
-At various points of the course, students will engage with learning "hot topics" as they relate to civic learning and report on their findings to our class community.
+A significant portion of the course asks the students to study and reflect on public problems related to the field of robotics. As a part of civic learning in this course you will be required to engage in the community. This will mainly involve developing software and hardware to be presented to our local community and then participating in appropriate outreach events. 
 
 #### Quizzes
 
@@ -136,7 +145,6 @@ It is mandatory for all students to attend all of the class and laboratory sessi
 #### Communication
 
 Various digital channels are used in this course for communication, including email, Discord, and the GitHub issue tracker. Additionally, the course website is used to store the link to the course GitHub Organization, which will contain course syllabus, course schedule and the assignments. Students are responsible for regularly checking all platforms to ensure that the important messages are not being missed.
-
 
 ## Allegheny College Policy and Awareness Statements
 
