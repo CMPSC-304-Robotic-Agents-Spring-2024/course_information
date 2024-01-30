@@ -98,7 +98,6 @@ Each team is responsible for the hardware they work with during each project. Al
 #### Grading
 
 Category        | Percentage   
------------------------------- 
 Class Activities (0 or 1) | 40% 
 Projects (letter grade) | 40%
 Community Engagement (at least 1 event) | 10%
