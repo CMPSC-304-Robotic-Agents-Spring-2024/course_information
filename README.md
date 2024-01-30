@@ -73,7 +73,7 @@ The course will introduce students to the practice of agent-based and robotic sy
 
 - Civic Learning (CL): Students who successfully complete this requirement will demonstrate an understanding of economic, political, legal, cultural, natural, historical, or social forces that affect public problems or civic issues.
 
-Program learning outcomes 2 and 5 satisfy CL learning outcome.
+  Program learning outcomes 2 and 5 satisfy CL learning outcome.
 
 - Quantitative Reasoning (QR): Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
 
