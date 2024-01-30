@@ -9,7 +9,7 @@ This repository contains information about the Robotic Agents course, including 
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Learning-Outcomes)
-- [Community Guidelines(#Community-Guidelines)
+- [Community Guidelines](#Community-Guidelines)
 - [Course Policies](#Policies)
 
 ## Schedule
