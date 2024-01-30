@@ -1,4 +1,4 @@
-# Robotic Agents Course Information
+# Robotic Agents Course Information: CMPSC 304 Spring 2024
 
 This repository contains information about the Robotic Agents course, including the course objectives and the schedule.
 
