@@ -9,10 +9,10 @@ This repository contains information about the Robotic Agents course, including 
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Learning-Outcomes)
-- [Required Materials](#Materials)
+- [Community Guidelines(#Community-Guidelines)
 - [Course Policies](#Policies)
 
-### Schedule
+## Schedule
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
@@ -47,7 +47,7 @@ Email: jjumadinova@allegheny.edu
 
 [Office Hours](https://janyljumadinova.com/schedule)
 
-### Description
+## Description
 
 A study of the design and implementation of autonomous software agents and robotic systems that cooperatively complete complex tasks. In addition to examining techniques for large-scale coordination and group-based decision-making, students learn how to apply the field's technologies to address the challenges facing local and global communities. Participating in hands-on activities that often require teamwork, students develop and evaluate several multi-agent or multi-robot systems, while also reflecting on the civic issues surrounding the use of these systems. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. 
 
@@ -55,13 +55,17 @@ Prerequisite: CMPSC 101 or CMPSC 102.
 
 Focus: Quantitative Reasoning, Civic Learning.
 
-### Objectives
+### Materials
+
+There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
+
+## Objectives
 
 Complex modern digital problems often require sophisticated computer programs, or agents, that act autonomously on behalf of their users and interact with hardware. This course will introduce students to the foundational principles behind robotic agents and to the civic issues, public challenges, and opportunities in this field. Areas of discussion include, but are not limited to sensors, perception, robot navigation and localization, motion planning, machine learning in robots, state of the art robotic applications, robotics in K-12 education, renewable energy, misuse of intelligent software and hardware, and various public issues utilizing agent/robotic systems as a solution.
 
 The course will introduce students to the practice of agent-based and robotic systems while covering both the well-established and the cutting-edge areas of the discipline. The course also invites students to design and develop several robotic system applications and to assess the correctness of their implementations. This will require students to work both with hardware and with software throughout the course. Moreover, the course will ask students to reflect on several public problems at local, national and international level that are or can be solved using robotic technologies and to study social systems behind them. In addition to improving their teamwork skills, students will enhance their ability to write and speak about agent-based and robotic systems in a clear and concise fashion. Through civic engagement activities, students will also strengthen their skill of clearly communicating technical details to the general public.
 
-### Learning Outcomes
+## Learning Outcomes
 
 1. Identify components of the robot and associate each part with its task in a complete robotic system.
 2. Design, implement, and test robotic applications for a wheeled, arm, and aerial robots.
@@ -69,7 +73,7 @@ The course will introduce students to the practice of agent-based and robotic sy
 4. Demonstrate actuating, sensing, locomotion, navigation, manipulation, and learning capabilities of robotic systems.
 5. Describe the ethical and social impact of robotics on public problems and participate in civic engagement activities with robots, while additionally reflecting on the nuances of public problems.
 
-### Distribution Learning Outcome
+### Distribution Learning Outcomes
 
 - Civic Learning (CL): Students who successfully complete this requirement will demonstrate an understanding of economic, political, legal, cultural, natural, historical, or social forces that affect public problems or civic issues.
 
@@ -79,11 +83,7 @@ The course will introduce students to the practice of agent-based and robotic sy
 
   Program learning outcomes 2, 3, and 4 satisfy QR learning outcome.
 
-### Materials
-
-There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
-
-### Community Guidelines
+## Community Guidelines
 
 Interactions of students amongst themselves, as well as with the course instructor and the Technical Leaders must be respectful at all times. All members of the course are expected to contribute to the classroom environment being welcoming, inclusive, and engaging. 
 
@@ -93,17 +93,18 @@ When working as a team, all project decisions should be made as a team. Team mem
 
 Each team is responsible for the hardware they work with during each project. All supplies taken out of ALIC need to be documented in the project's report. All tools and supplies must be returned to ALIC when are no longer in use. 
 
-### Policies
+## Policies
 
-#### Grading
+### Grading
 
-Category        | Percentage   
-Class Activities (0 or 1) | 40% 
-Projects (letter grade) | 40%
-Community Engagement (at least 1 event) | 10%
-Quizzes (at least 80% for 1, 0 otherwise) | 10%
+| Category      | Percentage |
+| ----------- | ----------- | 
+| Class Activities (0 or 1) | 40% |
+| Projects (letter grade) | 40% |
+| Community Engagement (at least 1 event) | 10% |
+| Quizzes (at least 80% for 1, 0 otherwise) | 10% |
 
-#### Grading Scale
+### Grading Scale
 
 |Grading scale|            |             |            |             |            |
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
