@@ -19,21 +19,21 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week # | Topic    | Activities/Assignments  | Reading
 ------ |  ------------------------- | --------------------------------------------- | ---------------------------
 1      |  Introduction to Class. Robotics Civic Problem. [GitHub Flow.](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000) | <ul><li>[Course Information Feedback and Community Guidelines](https://docs.google.com/document/d/1qVVSwcbv8Tf1A5qoZSI5nQ2zxBpmGqjGhKdUYpMde4c/edit?usp=sharing).</li> <li>[Activity 1: Getting to know `gopigo`](https://classroom.github.com/a/dJ7ngcxr).</li></ul> | <ul><li>Read the syllabus.</li> <li>Review GitHub Flow Links in the [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT4wGBWh3_C1nqYqDPZcLjoSD1jASBz7t7qARL37BhIdJkf4ItoujLXrKRgm8to6w/pub?start=false&loop=false&delayms=3000).</li></ul>
-2      | [Introduction to Robotics](https://docs.google.com/presentation/d/e/2PACX-1vSp-xyxXsO3dMq-ISFWKayQUSnQmx001kXqGazYAPIdRXGMuFWFTyzAIqqKBz_5BSMl73m9NB9iC6po/pub?start=false&loop=false&delayms=3000). [Actuating and Sensing](https://docs.google.com/presentation/d/e/2PACX-1vRQ3Iu39c2egv1-JNmIRB87ilpas2C5dES5oj0nsX8kLyFfnJ1hEg_YprV3xyHTEuLpGlvdMF_mApvr/pub?start=false&loop=false&delayms=3000)| <ul><li>[Activity 2: Getting to know `gopigo`](https://forms.gle/bmEsfeYpSCdbVuwq9)</li> <li>[Activity 3: sensors and actuators](https://forms.gle/tRhxqdboZrJB7ffw6) <li>[**Project 1**](https://classroom.github.com/a/Moa20OQq)</li></ul> | Read Chapters 1, 6 and 7 in ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
-3      | Actuating and Sensing | Activity 4: sensors | Read Chapters 6 and 7 in ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
-4      | Locomotion
-5      | Kinematics
-6      | Vision
-7      | Introduction to Robot Operating System
-8      | Spring Break
-9      | Understanding ROS
-10     | Robot Manipulation/Mapping
-11     | Robot Manipulation and Navigation
-12     | Learning in robotics
-13     | Learning in robotics
-14     | Final Projects
-15     | Final Projects
-16     | Project due
+2      | [Introduction to Robotics](https://docs.google.com/presentation/d/e/2PACX-1vSp-xyxXsO3dMq-ISFWKayQUSnQmx001kXqGazYAPIdRXGMuFWFTyzAIqqKBz_5BSMl73m9NB9iC6po/pub?start=false&loop=false&delayms=3000). [Actuating and Sensing](https://docs.google.com/presentation/d/e/2PACX-1vRQ3Iu39c2egv1-JNmIRB87ilpas2C5dES5oj0nsX8kLyFfnJ1hEg_YprV3xyHTEuLpGlvdMF_mApvr/pub?start=false&loop=false&delayms=3000)| <ul><li>[Activity 2: Getting to know `gopigo`](https://forms.gle/bmEsfeYpSCdbVuwq9)</li> <li>[Activity 3: sensors and actuators](https://forms.gle/tRhxqdboZrJB7ffw6) <li>[**Project 1**](https://classroom.github.com/a/Moa20OQq)</li></ul> | Read Chapters 1, 6 and 7 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+3      | Actuating and Sensing | [Activity 4: Getting to know `bebop`](https://classroom.github.com/a/FR_hBZnB) | <ul><li>Read Chapters 6 and 7 in ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots). </li> <li> [What is community engagement, exactly?](http://bangthetable.com/what-is-community-engagement) </li></ul>
+4      | Locomotion | Activity: Stability and DoF | <ul><li>Read Chapter 2.1-2.3 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).</li> <li> Read Pages 11-23 in the ["Growing CS ..." Paper](https://jmwais.org/wp-content/uploads/sites/8/2022/07/clicable-july2022.pdf#page=11).</li>
+5      | Kinematics | <ul><li>Activity: Getting to know robot arm </li> <li>Community engagement event.</li></ul> | <li>Read [Preparing for Community Engagement](https://ecampusontario.pressbooks.pub/communityengagedlearningatmcmaster/chapter/preparing-for-a-community-engagement/) </li></ul>
+6      | Vision | Activity: computer vision | Read Chapter 8 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+7      | Introduction to Robot Operating System | <ul><li>Activity: Getting to know ROS</li> <li>Community engagement event.</li></ul> | Read [Introduction to ROS](http://wiki.ros.org/ROS/Introduction).
+8      | Spring Break | No Classes
+9      | Understanding ROS | Activity: Getting to know `turtlebot` |  ROS Beginner Tutorials
+  10     | Robot Manipulation/Mapping | Activity: `turtlebot` in ROS | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+11     | Robot Manipulation and Navigation | Activity: robot arm in ROS | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+12     | Learning in robotics | Activity: feature detection| Read Chapter 9 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+13     | Learning in robotics | Activity: CNN | Read Read Chapter 10 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+14     | Final Projects | Proposal | Literature review
+15     | Final Projects | Progress report | Software review
+16     | Project due 
 
 ## Instructor
 
