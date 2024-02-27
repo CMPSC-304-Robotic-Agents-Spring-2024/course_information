@@ -27,8 +27,8 @@ Week # | Topic    | Activities/Assignments  | Reading
 7      | Introduction to Robot Operating System | <ul><li>[Activity 10: ROS robots](https://forms.gle/6dYYaczkcXbFuWzf8) </li> <li>Activity 11: Getting to know ROS</li> <li>Community engagement event</li></ul> | Read [Introduction to ROS](http://wiki.ros.org/ROS/Introduction).
 8      | Spring Break | No Classes
 9      | Understanding ROS | <ul><li>Activity: Getting to know `turtlebot`</li> <li>QUIZ 3 on March 14th</li></ul> |  ROS Beginner Tutorials
-  10     | Robot Manipulation/Mapping | Activity: `turtlebot` in ROS | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
-11     | Robot Manipulation and Navigation | <ul><li>QUIZ 4 on March 26th</li> <li>Activity: robot arm in ROS</li></ul> | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+  10     | Robot Manipulation/Mapping | <ul><li> Fieldtrip to Optical Filters</li></ul> <li>Activity: `turtlebot` in ROS</li></ul> | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
+11     | Robot Manipulation and Navigation | <ul><li>Guest lecture</li> <li>QUIZ 4 on March 26th</li> <li>Activity: robot arm in ROS</li></ul> | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 12     | Learning in robotics | Activity: feature detection| Read Chapter 9 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 13     | Learning in robotics | <ul><li>QUIZ 5 on April 9th</li><li>Activity: CNN </li></ul> | Read Read Chapter 10 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 14     | Final Projects | Proposal | Literature review
