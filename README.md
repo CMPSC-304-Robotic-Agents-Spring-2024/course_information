@@ -31,8 +31,8 @@ Week # | Topic    | Activities/Assignments  | Reading
 11     | Robot Manipulation and Navigation | <ul><li>[Activity 14: Guest lecture on March 26th](https://forms.gle/B2nmweLNeav2Y7pm9)</li> <li>[**Project 4: turtlebot**](https://classroom.github.com/a/BaoiMqSJ)</li></ul> | Read Chapters 12 and 14 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 12     | [Learning in robotics](https://docs.google.com/presentation/d/e/2PACX-1vTVZSmGxBHU7b_SmcCjowsLEAvhIJciuMVl8WYaefhJumJGnQAU7WxBPzDK-m_dzXnzjnqCcpsAmJO9/pub?start=false&loop=false&delayms=3000) | <ul><li>[Civic Learning Reflection and Action Report](https://classroom.github.com/a/x4h78blU)</li> <li>[QUIZ 4](https://classroom.github.com/a/OTadn2gI) on April 4th</li></ul>| Read Chapter 8 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 13     | [Computer Vision in robotics](https://docs.google.com/presentation/d/e/2PACX-1vQGM00NGDvi1eYAq387GefHPqhXiwjxAAIQMALHVJGT-7dSzaUwtiBnRx8wA8sWaOYqeD6oBDmEgWhK/pub?start=false&loop=false&delayms=3000) | <ul><li>[Activity 15: Computer Vision](https://forms.gle/iXGTUP2Me47f42jTA) </li> <li>[**Project 5: student choice**]()</li></ul> | <ul><li>Read Chapter 9-10 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)</li></ul>
-14     | Final Projects | <ul><li>Future of robotics presentations</li> <li>QUIZ 5 on April 18th</li></ul> | 
-15     | Final Projects | <ul><li>Progress report</li> <li>Civic Learning Reflection and Action Report DUE</li></ul> | Software review
+14     | Final Projects | <ul><li>Future of robotics presentations</li> <li>Civic Learning Reflection and Action Report DUE April 16th</li><li>QUIZ 5 on April 18th</li></ul> | 
+15     | Final Projects | <ul><li>Progress report</li> </ul> | Project review
 16     | Project due 
 
 ## Instructor
