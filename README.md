@@ -32,7 +32,7 @@ Week # | Topic    | Activities/Assignments  | Reading
 12     | [Learning in robotics](https://docs.google.com/presentation/d/e/2PACX-1vTVZSmGxBHU7b_SmcCjowsLEAvhIJciuMVl8WYaefhJumJGnQAU7WxBPzDK-m_dzXnzjnqCcpsAmJO9/pub?start=false&loop=false&delayms=3000) | <ul><li>[Civic Learning Reflection and Action Report](https://classroom.github.com/a/x4h78blU)</li> <li>[QUIZ 4](https://classroom.github.com/a/OTadn2gI) on April 4th</li></ul>| Read Chapter 8 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots).
 13     | [Computer Vision in robotics](https://docs.google.com/presentation/d/e/2PACX-1vQGM00NGDvi1eYAq387GefHPqhXiwjxAAIQMALHVJGT-7dSzaUwtiBnRx8wA8sWaOYqeD6oBDmEgWhK/pub?start=false&loop=false&delayms=3000) | <ul><li>[Activity 15: Computer Vision](https://forms.gle/iXGTUP2Me47f42jTA) </li> <li>[**Final Project: student choice**](https://classroom.github.com/a/PhIR7lKQ)</li></ul> | <ul><li>Read Chapter 9-10 in the ["Introduction to Autonomous Robots"](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)</li></ul>
 14     | Final Projects | <ul><li>Civic Learning Reflection and Action Report DUE April 16th</li><li>[QUIZ 5](https://classroom.github.com/a/JUxQo-Ua) on April 18th</li></ul> | 
-15     | Final Projects | <ul><li>Progress report</li> </ul> | Project review
+15     | Final Projects | <ul><li>[Activity 16: Learning Outcomes](https://forms.gle/YvsYjkAvM3tfFhLQ9)</li><li>Progress report</li><li>Activity 17: OB7 Shoveling</li></ul> | Project demos
 16     | Project due 
 
 ## Instructor
